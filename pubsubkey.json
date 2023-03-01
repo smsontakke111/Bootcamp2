@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sushant-sontakke-bootcamp",
+  "private_key_id": "1048c5a6fbddcd0385ff4784c7b1c00a60a06d74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCtFk77J7RWd7vc\nZLa6qy/gwcUauuHuC0ALCCOGp1AwrpOM0bOGIluDi1niF+veIaYWfhZ6JKFv5EEq\ns8NiSOBGWJihDcSOOGjsPrJFCwyZ1YDhEK25e+97H2KAPFB8wJbfuba+j42TgBgb\nXCTax7dFwRoAGvEqUh6uxhij5IgMyuA9sTZ/QzFVneAk/d9/6h1CThRu2nstCfjx\nLjmYOmK+inPnSF1VozwSVlaXXgs+d5DYDqiQhEFidlYOGv2BSDZrritBSQCIeMSr\n/yWjz73AUeTJ0Nepq7NiX4AB5SHB0FNhMydsf4Bp2k8yMEACPKLBojAr1YJbWkTA\n9WrdmLVDAgMBAAECggEAAmFm1K1xyClSvBqRKMq8mIARuzxhab9d3Mj6iW+OUB0W\nimlClCWvfIT+HM3swIarR26UgI7gaYQ0y+biWQeyOJrJ/pe3Nv2E8+V+Lio+Eh+N\nljV/LiiLh/X2iiz02Re3pia3t1yMuz/tFPM/eS17UnTwFpry63zAT0cKL7baPX1x\noc02FzuDkpOyrbIxxLa8Qhcor+sD5mqSUCQNcwrzN0gBJ5RFudpRHVz4EyJajXAQ\n01m2heft4681vdXCVvPkTCPz79aQt4qAw65Syeuxxx0xpaj0eqlT2imEGLTzpYct\n18hqxjb3tmy7ayKW76V2hrYZHwh5nUrZ4CzTeJL0gQKBgQDvCnWjMZ8gPM+oxi96\nWESiXnbSr6cGmQTnPCrtfTwgLzALoYzo0r7/s9VT3CQdcLuy19d/h6ZV/Cttlvkl\nbHspBPnQymQcrFpG/O9XWEPg7BcNzzE/8jYoke6LA2O/DMIQNFRjz4Tr+h8b80CU\nf8M7zmQkEvIgoHL8G1z+46rsxQKBgQC5Xfm2ZWv66s/A0g+u7rLWTOfjVaDzagop\n7kglvDSHm1Bv9u+5NZ/8FNLHoAcVP1tp6APh8pWlczwczsDZA+IX/t6+4PnwhBqe\nAqJrAcCWWdLcOkNXEXRzGeYXM/uazsMUgvM+szS7DAHfNmnHp9ocTA8i4GMypfFd\nwHkXIQDKZwKBgQDfLLHGCncZfw0V8uqy3CRAP9fKPqq/cy/rv/YIQqtXFRdTVKId\nYV1nmHusTtT9E5p6kCAndftrPgNBzvmP4idelcGzGLK9PoEO0+mVb9f38BRaFT5T\nCI1d9Vl0OlbvMTciL+k2QrJEKwLOcp6xxlL9zGUcdP/QTFzuWZHKe77CTQKBgQCa\nO0/nbDHQ/4jGtcEo2yDf3/NdGsUlYwh75PAQvayzXA4sarkBUFYCB01tnX/nNOUZ\nlFuOpynOFLhie8DHkEyRjJXHGie78B65dBWxlS6pqqkgZjXbfwF2N4lTqwPgxcJZ\nEa/UboUkUJRKJdsTrVx0CPDbIvpGjP3r9JaMIQCoZwKBgQDPaTWgzimlmx6zT/8E\nw8zkZKozJ+r90R6LMoQAId/Cj94/4AM6NH1nArVNnbDpRexY5LMt2DwQZybkMnOG\nK5mQdCEQ3pKVVOXGQ47tpcfGoBZkHivwAJ4Ht9Y7wwHeh897M2ZNxQkWNrDPq1MS\nntiaIvqjAcl9D5o6QW4ezFF4ow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubadmin@sushant-sontakke-bootcamp.iam.gserviceaccount.com",
+  "client_id": "109618411282789338563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubadmin%40sushant-sontakke-bootcamp.iam.gserviceaccount.com"
+}
