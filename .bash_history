@@ -98,3 +98,84 @@ git add .
 git commit -m "Initial commit"
 git config --global user.name "smsontakke111"
 git config --global user.email "smsontakke111@gmail.com"
+git add .
+git commit -m "Initial commit"
+git status
+git remote add origin git@github.com:smsontakke111/Bootcamp.git
+git push origin master
+ssh-keygen -t rsa -C "smsontakke111@gmail.com"
+cat sshkay
+ls
+cat sshkay.pub
+cat sshkey.pub
+git push origin master
+git remote add origin git@github.com:smsontakke111/Bootcamp.git
+git push origin master
+git status
+git push origin master --force
+git remote add origin git@github.com:smsontakke111/Bootcamp.git
+git push origin master --force
+rm Cloud_Composer
+cd scripts
+rm Cloud_Composer
+python3 -m pip install avro
+tar xvf avro-1.10.2.tar.gz
+pip install avro==1.10.2
+tar xvf avro-1.10.2.tar.gz
+ls
+cd lang/py/
+gcloud auth activate-service-account --key-file=gcskey.json
+ls
+cd ..
+ls
+gcloud auth activate-service-account --key-file=storagekey.json
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+cd scripts
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+rm users.avro
+/usr/bin/python /home/smsontakke11/scripts/cloud_composer.py
+cd ..
+/usr/bin/python /home/smsontakke11/PubSub/PubSub2.py
+cd PubSub
+/usr/bin/python /home/smsontakke11/PubSub/PubSub2.py
+pip show google-cloud-pubsub
+pip install google-cloud-pubsub
+pip show google-cloud-pubsub
+/usr/bin/python /home/smsontakke11/PubSub/PubSub2.py
+gcloud sql connect mypginstance--user=postgres
+curl -o cloud-sql-proxy https://storage.googleapis.com/cloud-sql-connectors/cloud-sql-proxy/v2.0.0/cloud-sql-proxy.linux.amd64
+chmod +x cloud-sql-proxy
+ls
+rm cloud-sql-proxy
+ls
+mkdir USER
+cd USER
+curl -o cloud-sql-proxy https://storage.googleapis.com/cloud-sql-connectors/cloud-sql-proxy/v2.0.0/cloud-sql-proxy.linux.amd64
+chmod +x cloud-sql-proxy
+./cloud-sql-proxy mypginstance &
+cd workingfile
+gcloud auth activate-service-account --key-file=storagekey.json
+cd ..
+gcloud auth activate-service-account --key-file=storagekey.json
+cd workingfile
+gsutil lifecycle get gs://sushant-sontakke-fagcpbcmp
+gsutil lifecycle set object_lifecycle.json gs://sushant-sontakke-fagcpbcmp
+gcloud sql connect mypginstance --user=postgres
+gcloud auth activate-service-account --key-file=bigquerykey.json
+/usr/bin/python /home/smsontakke11/bigquery2.py
+python bigquery2.py
+/usr/bin/python /home/smsontakke11/bigquery2.py
+git status
+ls
+git add smsontakke11
