@@ -179,3 +179,34 @@ python bigquery2.py
 git status
 ls
 git add smsontakke11
+git add /home/smsontakke11
+git status
+git commit -m "initial commit"
+git status
+git remote add origin git@github.com:smsontakke111/Bootcamp.git
+git push origin master
+ls -al ~/.ssh
+git push origin master
+ssh-keygen
+cat /home/smsontakke11/.ssh/id_rsa.pub
+git status
+git push origin master
+git add /smsontakke11/
+ls
+git add home/smsontakke11/
+git add /home/smsontakke11/
+git status
+cd USER
+ls
+cd ..
+touch .gitignore
+ls
+git status
+ls
+rm USER
+cd USER
+ls
+rm cloud-sql-proxy
+ls
+cd ..
+git add smsontakke11
